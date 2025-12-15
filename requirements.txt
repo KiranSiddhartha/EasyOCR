@@ -1,0 +1,6 @@
+streamlit==1.25.0
+opencv-python
+numpy
+pillow
+pytesseract
+easyocr
